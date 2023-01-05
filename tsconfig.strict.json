@@ -1,0 +1,13 @@
+{
+  "extends": "./tsconfig.loose.json",
+  "compilerOptions": {
+    "strict": true,
+    "strictPropertyInitialization": false,
+    "noFallthroughCasesInSwitch": true,
+    "noImplicitReturns": true,
+    "noPropertyAccessFromIndexSignature": true,
+    "noUncheckedIndexedAccess": true,
+    "noUnusedLocals": true,
+    "noUnusedParameters": true,
+  }
+}
