@@ -1,0 +1,21 @@
+{
+  "name": "@35up/ts-configs",
+  "version": "0.0.1",
+  "description": "Set of typescript configs to extend from",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/35up/ts-configs.git"
+  },
+  "keywords": [
+    "typescript"
+  ],
+  "author": "35up GmbH <the.engineers@35up.com>",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/35up/ts-configs/issues"
+  },
+  "homepage": "https://github.com/35up/ts-configs#readme"
+}
