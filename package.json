@@ -1,6 +1,6 @@
 {
   "name": "@35up/ts-configs",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Set of typescript configs to extend from",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
