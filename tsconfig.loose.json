@@ -8,6 +8,5 @@
     "sourceMap": true,
     "forceConsistentCasingInFileNames": true,
     "isolatedModules": false,
-    "importsNotUsedAsValues": "preserve"
   }
 }
