@@ -16,7 +16,7 @@
     "typescript": "^5.0.0"
   },
   "author": "35up GmbH <the.engineers@35up.com>",
-  "license": "UNLICENSED",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/35up/ts-configs/issues"
   },
